@@ -7,10 +7,16 @@ Transforming an image like
 ```sh
 xim --image image.png
 ```
-![](https://raw.githubusercontent.com/JM4ier/xim/master/examples/image.png)
+![original image](examples/image.png)
+
 creates two separate image files
-~[](https://raw.githubusercontent.com/JM4ier/xim/master/examples/image1.png)
+
+![image 1](examples/image1.png)
+
 and
-~[](https://raw.githubusercontent.com/JM4ier/xim/master/examples/image2.png)
-When overlayed, these images look like this
-~[](https://raw.githubusercontent.com/JM4ier/xim/master/examples/image-result.png)
+
+![image 2](examples/image2.png)
+
+When overlayed, these images look like this:
+
+![overlayed images](examples/image-result.png)
